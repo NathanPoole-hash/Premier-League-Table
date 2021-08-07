@@ -1,0 +1,19 @@
+h1 {
+    color: yellow;
+    font-family: arial;
+    font-weight: lighter;
+    font-variant: small-caps;
+    text-aligh: center;
+}
+
+.centre {
+    margin: auto;
+  width: 50%;
+}
+html {
+    background: url(https://resources.premierleague.com/photos/2020/03/13/e6838799-4ef1-43cf-97d9-e3dfb743d067/Statement_Graphic_PL_Lilac.png?width=930&height=620) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
